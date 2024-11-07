@@ -1,7 +1,7 @@
 # Cloud Service Providers Free Tier Overview
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/BigDesigner/free-tier-cloud-compatison?style=flat)](https://img.shields.io/github/stars/BigDesigner/free-tier-cloud-compatison?style=flat)
-[![X Follow](https://img.shields.io/twitter/follow/muratgonen?style=social)](https://x.com/muratgonen)
+[![GitHub Repo stars](https://img.shields.io/github/stars/BigDesigner/free-tier-cloud-compatison?style=flat)](https://github.com/BigDesigner/free-tier-cloud-compatison)
+[![X Follow](https://img.shields.io/twitter/follow/muratgonen?style=flat)](https://x.com/muratgonen)
 
 Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle Cloud etc.
 
